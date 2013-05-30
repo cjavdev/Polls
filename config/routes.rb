@@ -1,4 +1,6 @@
 Polls::Application.routes.draw do
+  class User
+  end
   # The priority is based upon order of creation:
   # first created -> highest priority.
 
